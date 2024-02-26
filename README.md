@@ -22,7 +22,7 @@
 
 # Introduction
 
-This application serves as a comprehensive guide for users unfamiliar with OpenAI. It delves into various aspects of OpenAI, including:
+This application serves as a comprehensive guide for users unfamiliar with OpenAI. It delves into various aspects of OpenAI, including:-
 
 * What is OpenAI? - Provides a clear understanding of OpenAI's purpose and functionalities.
 * How to Use OpenAI: - Offers an introductory guide on utilizing OpenAI's services and tools.
