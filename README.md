@@ -42,7 +42,7 @@ This application serves as a comprehensive guide for users unfamiliar with OpenA
 1,Clone the repository: Open your terminal and navigate to your desired local directory. Then, run the following command:
 
 **Bash**
-* git clone [https://github.com/your-username/introduction-to-openai.git](https://github.com/Dave051621/Introduction-to-OpenAI)
+* git clone https://github.com/Dave051621/Introduction-to-OpenAI
 
 2,Install dependencies: Navigate to the project directory:
 
